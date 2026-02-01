@@ -35,11 +35,12 @@ with smtplib.SMTP('smtp.gmail.com', 587) as s:
 
 print("File sent! Check your inbox for the JSON response.")
 
+```
 
-💰 Pricing
+💰 **Pricing**
 Currently in Public Beta (Free).
 
-🔒 Privacy & Security
+🔒 **Privacy & Security**
 Files are processed in memory and discarded after extraction.
 
 We do not use your data to train public models.
